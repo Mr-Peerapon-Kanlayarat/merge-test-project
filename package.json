@@ -16,5 +16,11 @@
     "url": "https://github.com/Mr-Peerapon-Kanlayarat/merge-test-project/issues"
   },
   "homepage": "https://github.com/Mr-Peerapon-Kanlayarat/merge-test-project#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
+  }
 }
